@@ -1,0 +1,11 @@
+key, box, outcome
+red1, red, 1
+pink6, pink, 0
+greycloud, pink, 0
+grey2, pink, 1
+orange4, cream, 1
+purplearrow, purple, 0
+green3, purple, 1
+triangleyellow, teal, 0
+diamondorange, cream, 0
+yellow5, teal, 1
